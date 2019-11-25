@@ -12,4 +12,7 @@ public class FirstClass {
         int i=0;
         i+=10;
     }
+    public void call(){
+        System.out.println(123);
+    }
 }
